@@ -2,8 +2,8 @@
 
 Three projects made during studies:
 
-1. Simple statistical analysis with creating pretty awesome tables
-2. More complex linear regression with MSE and other statistics.
-3. Neural network with one hidden layer + MSE.
+1. Statistical analysis of iris data.
+2. Linear regression with MSE and statistics.
+3. Neural network - one hidden layer + MSE.
 
-Language: Python with packages NumPy, matplotlib and others
+Language: Python with packages NumPy, matplotlib and pandas
